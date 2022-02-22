@@ -4,7 +4,7 @@ James Lim and Shloke Meresh
 
 Citations:
     1. Code derived from the work of Charlie Curtsinger
-    2. Poker hand evaluator library from https://github.com/HenryRLee/PokerHandEvaluator
+    2. Poker hand evaluator library from https://github.com/HenryRLee/PokerHandEvaluator. Download this library in order for the program to run. The makefile will take care of compiling it correctly. 
 
 Steps to run program:
     1. Change directory to "/project_final/PokerHandEvaluator/cpp" and run "make".
