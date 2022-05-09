@@ -2,6 +2,8 @@
 Authors:
 James Lim and Shloke Meresh
 
+This is a program that implements a full-functional poker game across a distributed system. It utilizes parallel processing and thread synchronization to take care of the game logic simultaneously between all users. Steps to run the program are outlined below. 
+
 Citations:
     1. Code derived from the work of Charlie Curtsinger
     2. Poker hand evaluator library from https://github.com/HenryRLee/PokerHandEvaluator. Download this library in order for the program to run. The makefile will take care of compiling it correctly. 
