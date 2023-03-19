@@ -2,6 +2,8 @@
 Authors:
 James Lim and Shloke Meresh
 
+![](https://www.google.com/search?q=image&sxsrf=AJOqlzXU1dQvQf6W_C85nl7GHKBHMQYKcw:1679255884122&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjL6NbT4-j9AhVglIkEHYXkDxkQ_AUoAXoECAEQAw&biw=1440&bih=789&dpr=2#imgrc=Pso-9ayGpy0KlM)
+
 This is a program that implements a full-functional poker game across a distributed system. It utilizes parallel processing and thread synchronization to take care of the game logic simultaneously between all users. Steps to run the program are outlined below. 
 
 Citations:
